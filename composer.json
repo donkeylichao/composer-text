@@ -1,0 +1,21 @@
+{
+    "name": "younger/composer-text",
+    "description": "This is a demo for build composer packagist.",
+    "type": "library",
+    "license": "YLC",
+    "authors": [
+        {
+            "name": "杨利超",
+            "email": "529755212@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HaHa\\": ""
+        }
+    }
+}
